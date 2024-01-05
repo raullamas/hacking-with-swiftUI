@@ -1,3 +1,6 @@
 [submodule "GuessTheFlag"]
 	path = GuessTheFlag
 	url = https://github.com/raullamas/GuessTheFlag.git
+[submodule "BetterRest"]
+	path = BetterRest
+	url = git@github.com:raullamas/BetterRest.git
